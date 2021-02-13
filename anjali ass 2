@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+    <meta charset="utf-8">
+    <title></title>
+</head>
+
+<body>
+    <a href="https://eng19cs0035-anjali.github.io/CV/" style="background-color:yellow;">Introduction</a>
+    
+    <a href="https://www.dsu.edu.in/" target="_blank" style="background-color:yellow;">Education</a>
+    <a href="mailto:sharmaanjali2552@gmail.com" style="background-color:yellow;">contact me</a>
+    <a href="tel:+8207836349" style="background-color:yellow;">call me</a>
+</body>
+
+</html>
